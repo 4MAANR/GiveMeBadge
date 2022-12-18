@@ -1,4 +1,4 @@
-# Run GiveMeBadge
+# Run GiveMeBadge MADE BY AlexFlipnote
 
 *Paste your Discord token by copying it and right-clicking on the application. Some users can also try CTRL + V or CTRL + Shift + V.*
 
